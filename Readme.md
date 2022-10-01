@@ -4,6 +4,6 @@ Unfortunately I have no real aim or goal so the content will be limited to penis
 
 Lot's of python-esque penises, pun intended.
 
-Stay tuned for larger and more complex projects, and yes.. most likely more penis scripts.
+Stay tuned for larger and more complex projects, and yes.. most likely more penis scripts int he interim.
 
 -hazeyez
