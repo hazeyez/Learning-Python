@@ -1,4 +1,4 @@
-Weclome, this repository will be my scripts as I practice and learn python.
+Weclome, this repository will include my scripts as I practice and learn python.
 
 Unfortunately I have no real aim or goal so the content will be limited to penises.
 
