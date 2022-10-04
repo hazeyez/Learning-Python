@@ -7,7 +7,7 @@
 """
 using bash, run the script 1000x & save output to a file to get dataset to test best average of range
 
-bash$ "for i in {1..1000}; do python3 guess-penis-size-output.txt >> output.txt; done"
+bash$ "for i in {1..1000}; do python3 guess-penis-size-V2.py >> output.txt; done"
 
 ranges tested x1000 iterations each:
 
